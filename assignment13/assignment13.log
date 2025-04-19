@@ -1,0 +1,16 @@
+2025-04-19 08:10:36,284 - DEBUG - This is a debug message.
+2025-04-19 08:10:36,284 - INFO - This is an info message.
+2025-04-19 08:10:36,285 - WARNING - This is a warning message.
+2025-04-19 08:10:36,285 - ERROR - This is an error message.
+2025-04-19 08:10:36,285 - CRITICAL - This is a critical message.
+2025-04-19 08:10:36,285 - INFO - Function started
+2025-04-19 08:10:36,285 - DEBUG - Calculation result: 5.0
+2025-04-19 08:10:36,285 - INFO - Function finished
+2025-04-19 08:12:39,044 - DEBUG - This is a debug message.
+2025-04-19 08:12:39,044 - INFO - This is an info message.
+2025-04-19 08:12:39,045 - WARNING - This is a warning message.
+2025-04-19 08:12:39,046 - ERROR - This is an error message.
+2025-04-19 08:12:39,046 - CRITICAL - This is a critical message.
+2025-04-19 08:12:39,046 - INFO - Function started
+2025-04-19 08:12:39,046 - DEBUG - Calculation result: 5.0
+2025-04-19 08:12:39,046 - INFO - Function finished
